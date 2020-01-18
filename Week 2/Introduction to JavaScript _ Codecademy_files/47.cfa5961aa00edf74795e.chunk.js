@@ -1,0 +1,2 @@
+(window.__LOADABLE_LOADED_CHUNKS__=window.__LOADABLE_LOADED_CHUNKS__||[]).push([[47],{bizM:function(e,a,c){"use strict";var t=c("hhPA"),s=c.n(t),n=s.a.createActions([]);n.clearHistory=s.a.createAction(),n.refresh=s.a.createAction({asyncResult:!0}),n.navigateBack=s.a.createAction({asyncResult:!0}),n.load=s.a.createAction({asyncResult:!0}),n.clearMessageHistory=s.a.createAction(),n.receiveMessage=s.a.createAction(),n.sendMessage=s.a.createAction(),n.push=s.a.createAction(),a.a=n}}]);
+//# sourceMappingURL=47.cfa5961aa00edf74795e.chunk.js.map
